@@ -1,1 +1,4 @@
 Flyer
+==============
+A wxPython app  with toolbars, status bars and menus.  
+With the help of the ZetCode wxPython tutorial-Chapter 2.
